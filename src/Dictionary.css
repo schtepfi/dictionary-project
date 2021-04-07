@@ -1,3 +1,11 @@
-.Dictionary {
-    background: white;
+.Dictionary form {
+  padding-bottom: 20px;
+}
+
+.Dictionary input {
+  font-size: 20px;
+  text-align: center;
+  padding: 5px;
+  border-radius: 10px;
+  border: 1px solid lightblue;
 }

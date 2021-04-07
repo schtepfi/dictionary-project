@@ -12,8 +12,12 @@ function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="text-center">
-          Open-source code, by Stephanie Schlaepfer
+        <footer>
+          <a
+            href="https://github.com/schtepfi/dictionary-project"
+            target="_blank"
+            rel="noopener noreferrer"
+          >Open-source code</a>, by Stephanie Schlaepfer
       </footer>
       </div>
     </div>
