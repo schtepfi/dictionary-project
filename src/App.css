@@ -1,10 +1,12 @@
 .App {
   text-align: center;
+  background: #f9f8fe;
 }
 
-.App-header {
-  margin: 30px 0;
+a {
+  color: #9670f4;
 }
+
 
 .App-logo {
   max-width: 200px;
@@ -14,6 +16,6 @@
 
 .App footer {
   font-size: 16px;
-  margin: 60px;
   text-align: center;
+  padding: 20px;
 }

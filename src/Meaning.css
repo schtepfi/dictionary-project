@@ -1,0 +1,13 @@
+.Meaning h3 {
+font-size: 24px;
+margin-bottom: 25px;  
+font-weight: 700;
+text-transform: uppercase;
+text-decoration: underline;
+}
+
+.Meaning .example {
+  font-style: italic;
+  margin: 10px;
+  color: #1d9bbe;
+}

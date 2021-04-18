@@ -1,11 +1,28 @@
-.Dictionary form {
-  padding-bottom: 20px;
-}
-
 .Dictionary input {
+  width: 50%;
   font-size: 20px;
   text-align: center;
-  padding: 5px;
+  padding: 8px;
+    color: #333;
   border-radius: 10px;
-  border: 1px solid lightblue;
+  border: 1px solid #ddd;
+}
+
+.Dictionary section {
+  background: white;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+}
+
+.Dictionary .Hint {
+  font-size: 11px;
+  margin-top: 5px;
+}
+
+.Dictionary .LookUp {
+  font-weight: 700;
+  font-size: 30px;
+  padding-bottom: 22px;
 }
