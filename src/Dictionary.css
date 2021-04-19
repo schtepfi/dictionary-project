@@ -3,14 +3,14 @@
   font-size: 20px;
   text-align: center;
   padding: 8px;
-    color: #333;
+  color: #333;
   border-radius: 10px;
   border: 1px solid #ddd;
 }
 
 .Dictionary section {
   background: white;
-  padding: 30px;
+  padding: 20px;
   border-radius: 8px;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
   margin: 20px;
@@ -25,4 +25,8 @@
   font-weight: 700;
   font-size: 30px;
   padding-bottom: 22px;
+}
+
+.Dictionary a {
+  color: #a04f49;
 }

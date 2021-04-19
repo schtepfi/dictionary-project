@@ -2,22 +2,11 @@
   text-align: center;
   max-width: 960px;
   margin: 0 auto;
-  margin-top: 20px;
+  margin-top: 25px;
 }
-
-.App a {
-  color: #a04f49;
-}
-
 
 .App-logo {
   max-width: 200px;
   display: block;
   margin: 0 auto;
-}
-
-.App footer {
-  font-size: 16px;
-  text-align: center;
-  padding: 20px;
 }

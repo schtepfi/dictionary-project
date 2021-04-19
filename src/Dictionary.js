@@ -46,7 +46,7 @@ export default function Dictionary(props) {
     return (
       <div className="Dictionary" >
         <section>
-          <div className="LookUp">What word would you like to look up?</div>
+          <div className="LookUp">What word would you like to look up? 👀</div>
           <form onSubmit={handleSubmit}>
             <input type="search" onChange={handleKeywordChange}
               defaultValue={props.defaultKeyword} />
@@ -57,6 +57,13 @@ export default function Dictionary(props) {
         </section>
         <Results results={results} />
         <Photos photos={photos} />
+        <section>
+          <a
+            href="https://github.com/schtepfi/dictionary-project"
+            target="_blank"
+            rel="noopener noreferrer"
+          >Open-source code</a>, by Stephanie Schlaepfer
+        </section>
       </div >
     );
   } else {
